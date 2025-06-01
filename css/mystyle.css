@@ -23,7 +23,7 @@ li {
     width: 200px;
     height: 200px;
     position: relative;
-    margin: 300px auto;
+    margin: 150px auto;
     transform-style: preserve-3d;
     transform: rotateX(13deg);
     animation: move 5s linear infinite;
@@ -210,4 +210,11 @@ li {
     100% {
         transform: rotateX(13deg) rotateY(360deg);
     }
+}
+
+#timeTogether {
+    font-size: 1.5em;
+    color: #ff3366;
+    margin-top: 10px;
+    text-align: center;
 }
