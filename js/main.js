@@ -38,7 +38,7 @@ function updateTimeTogether() {
     const displaySeconds = seconds % 60;
 
     $('#timeTogether').text(
-        `Thời gian: ${displayDays} ngày, ${displayHours} giờ, ${displayMinutes} phút, ${displaySeconds} giây ❤️`
+        `mq iu mia được: ${displayDays} ngày, ${displayHours} giờ, ${displayMinutes} phút, ${displaySeconds} giây ❤️`
     );
 }
 
